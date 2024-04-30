@@ -9,29 +9,29 @@
     <title>Resultados de Búsqueda</title>
     <style>
         body {
-            background-color: #f8f9fa; /* Color de fondo para todo el cuerpo */
+            background-color: #f8f9fa; 
         }
         h1 {
-            color: #007bff; /* Color azul para el título principal */
-            margin-top: 40px; /* Margen superior para el título */
+            color: #007bff; 
+            margin-top: 40px; 
         }
         .table {
-            background-color: #fff; /* Color de fondo de la tabla */
-            border-radius: 8px; /* Bordes redondeados para la tabla */
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave para la tabla */
+            background-color: #fff; 
+            border-radius: 8px; 
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
         }
         .btn-primary {
-            background-color: #007bff; /* Color de fondo azul para los botones */
-            border-color: #007bff; /* Color del borde azul para los botones */
+            background-color: #007bff;
+            border-color: #007bff; 
         }
         .btn-primary:hover {
-            background-color: #0056b3; /* Color de fondo azul más oscuro al pasar el mouse */
-            border-color: #0056b3; /* Color del borde azul más oscuro al pasar el mouse */
+            background-color: #0056b3; 
+            border-color: #0056b3; 
         }
         .alert-danger {
-            background-color: #f8d7da; /* Color de fondo rojo claro para la alerta */
-            border-color: #f5c6cb; /* Color del borde rojo claro para la alerta */
-            color: #721c24; /* Color de texto oscuro para la alerta */
+            background-color: #f8d7da; 
+            border-color: #f5c6cb; 
+            color: #721c24; 
         }
     </style>
 </head>
